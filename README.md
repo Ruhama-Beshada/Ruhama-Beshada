@@ -34,7 +34,7 @@ I'm a **third-year Software Engineering student** at Addis Ababa University with
 ---
 
 ## 🔥 GitHub Stats
-  
+![Ruhama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruhama-Beshada&show_icons=true&theme=radical)
 ![Ruhama's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruhama-Beshada&theme=radical)
 
 ---
